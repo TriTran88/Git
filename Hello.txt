@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Hello Tran Minh Tri
 Day la nhung thay doi moi 
-=======
->>>>>>> parent of da9568b... Add new data for hello.txt
